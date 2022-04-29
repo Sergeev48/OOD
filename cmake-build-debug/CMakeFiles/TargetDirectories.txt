@@ -1,0 +1,3 @@
+/home/evgen1067/CLionProjects/OOD/cmake-build-debug/CMakeFiles/OOD.dir
+/home/evgen1067/CLionProjects/OOD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/evgen1067/CLionProjects/OOD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
